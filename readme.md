@@ -1,3 +1,7 @@
+##Automatic Time Table management System (Test Version)
+An ATTMS for managing courses and classes in a given department
+This is not a full working system. Its just a Test case I'm using to adapt to Laravel
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
